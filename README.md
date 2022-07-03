@@ -143,7 +143,7 @@ GMAIL_REFRESH_TOKEN = [GMAIL_REFRESH_TOKEN]
 | `sortType` | `string` | **Required**. Your API key |
 
 ### Front End
-* Repository: https://github.com/Infinite-Bug/ankasa-client
+* Repository: https://github.com/andry-pebrianto/ankasa-client
 * Demo: https://ankasa-flight.netlify.app/
 
 ## Our Team
